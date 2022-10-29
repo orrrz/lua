@@ -1,0 +1,19 @@
+{
+	"version": "2.6",
+	"projectName": "elink",
+	"projectType": "pure",
+	"corePath": "C:\\Users\\lenovo\\AppData\\Roaming\\LuatIDE\\LuatideCore\\Air101_CORE\\LuatOS-SoC_V0011_AIR101.soc",
+	"libPath": "",
+	"moduleModel": "air101",
+	"appFile": [
+		"123.txt",
+		"luatide_project.json",
+		"main.lua",
+		"shuo.txt"
+	],
+	"modulePort": "",
+	"ignore": [
+		"workspace.code-workspace"
+	],
+	"simulatorRun": "disable"
+}
